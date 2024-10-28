@@ -1,5 +1,5 @@
 * # Overview
-This repository contains source codes of our recent research work (DELVE: Deep Discriminative Representation Learning-based Long-tail Visual Detection of Benthonic Organisms), which is currently submitting to *IEEE Transactions on Intelligent Transportation Systems*. This work exclusively solves challenges originated from long-tail distribution of benthonic organisms by innovatively devising discriminative additive angular margin-based classification loss and uneven embedding representation distribution loss. Comprehensive experiments and comparisons sufficiently demonstrate that the DELVE framework outperforms generic and long-tail detection approaches.
+This repository contains source code of our recent research work (DELVE: Deep Discriminative Representation Learning-based Long-tail Visual Detection of Benthonic Organisms), which is currently submitting to *IEEE Transactions on Intelligent Transportation Systems*. This work exclusively solves challenges originated from long-tail distribution of benthonic organisms by innovatively devising discriminative additive angular margin-based classification loss and uneven embedding representation distribution loss. Comprehensive experiments and comparisons sufficiently demonstrate that the DELVE framework outperforms generic and long-tail detection approaches.
 
 
 * # Requirements
