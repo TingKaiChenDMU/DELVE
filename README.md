@@ -15,8 +15,6 @@ opencv_python==4.1.0.25
 
 Pillow==8.3.1
 
-scikit-fuzzy==0.4.2
- 
 * #  Contact Us
 If you have any questions, please contact us in time (tingkai.chen@aliyun.com)!
 
