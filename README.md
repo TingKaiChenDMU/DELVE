@@ -16,6 +16,6 @@ opencv_python==4.1.0.25
 Pillow==8.3.1
 
 * #  Contact Us
-If you have any questions, please contact us in time (tingkai.chen@aliyun.com)!
+If you have any questions, please contact us in time (tingkai.chen@aliyun.com or n.wang@ieee.org)!
 
 Welcome Fork and Star our works!
